@@ -12,4 +12,4 @@ The [flexdashboard](https://cran.r-project.org/web/packages/flexdashboard/index.
 
 <br>
 
-The app is available at [https://rcatlord.shinyapps.io/STATS19_scanner](https://rcatlord.shinyapps.io/STATS19_scanner)
+
