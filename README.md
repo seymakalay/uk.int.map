@@ -10,7 +10,8 @@ STATS19 road traffic collision data for Greater London are available from [Trans
 The [flexdashboard](https://cran.r-project.org/web/packages/flexdashboard/index.html), [leaflet](https://cran.r-project.org/web/packages/leaflet/index.html"), [highcharter](https://cran.r-project.org/web/packages/highcharter/index.html) and [DT](https://cran.r-project.org/web/packages/DT/index.html) R packages were used in this [Shiny](https://cran.r-project.org/web/packages/shiny/index.html) app. Some of the code for the STATS19_scanner was adapted from
 [Superzip](http://shiny.rstudio.com/gallery/superzip-example.html) by Joe Cheng. The ui was inspired by [blackspot](http://blackspot.org.uk) by Ben Moore and [Twin Cities Buses](https://gallery.shinyapps.io/086-bus-dashboard/) by Aron Atkins.
 <br>
-[Source Code](https://github.com/rcatlord)
+
+ https://seymakalay87.shinyapps.io/UK_Map/
 
 
 
