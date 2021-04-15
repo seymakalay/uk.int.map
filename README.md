@@ -11,6 +11,6 @@ The [flexdashboard](https://cran.r-project.org/web/packages/flexdashboard/index.
 [Superzip](http://shiny.rstudio.com/gallery/superzip-example.html) by Joe Cheng. The ui was inspired by [blackspot](http://blackspot.org.uk) by Ben Moore and [Twin Cities Buses](https://gallery.shinyapps.io/086-bus-dashboard/) by Aron Atkins.
 <br> 
 
-
+[Map](https://seymakalay87.shinyapps.io/UK_Map/)
 
 
